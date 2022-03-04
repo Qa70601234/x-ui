@@ -13,7 +13,7 @@
 
 # 安装&升级
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://hk1.monika.love/Qa70601234/x-ui/main/install.sh)
 ```
 
 ## 手动安装&升级
